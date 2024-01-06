@@ -88,7 +88,7 @@ for index in TEXTS[index_text].split():
     word = index.strip(".,?!-")
     words.append(word)
     
-# ˇANALÝZA SLOV
+# ANALÝZA SLOV
 
 number_words = len(words)
 titlecase_words = 0  
